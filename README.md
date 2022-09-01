@@ -1,6 +1,6 @@
 # Luisa Soriano
 
-Este repositorio tiene las prácticas y entregas de la materia Sistemas Operativos y Redes.
+Este repositorio tiene las prácticas y entregas de la materia Sistemas Operativos y Redes Para completar las tareas.
 
 ##  Prácticas 1 y 2
 
