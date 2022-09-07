@@ -22,7 +22,7 @@ Es un modelo que permite la comunicacion entre diferentes sistemas de comunicaci
 
 - **¿Qué es una topología de red?**
 
-Estudio de las conexiones de red.
+Estudio de las conexiones.
 
 - **Menciona 3 características de la web 1.0.**
   - Fue la primera que apareció
