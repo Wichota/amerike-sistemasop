@@ -7,6 +7,6 @@ Este repositorio tiene las prácticas y entregas de la materia Sistemas Operativ
 - [Práctica 1](./Practica_1.md)
 - [Práctica 2](./Practica_2.md)
 
-[Práctica 4](./https://github.com/Wichota/practica4)
+- [Práctica 4](./https://github.com/Wichota/practica4)
 
-Cambio
+- [Práctica 8](./Practica_8.md)
