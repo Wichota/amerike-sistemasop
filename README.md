@@ -14,3 +14,5 @@ Este repositorio tiene las prácticas y entregas de la materia Sistemas Operativ
 ##  Prácticas Parcial 2:
 
 - [Práctica 1](https://github.com/Wichota/Practica1Parcial2)
+
+ Creando la versión 1.0.0 de este repositorio.
