@@ -1,0 +1,97 @@
+commit ac306c92109445f55d9c228e1d5b2dfff52da529
+Author: Luisa Soriano <cdmx1995@amerike.edu.mx>
+Date:   Thu Sep 15 10:04:35 2022 -0500
+
+    Reparando errores
+
+commit ecceaa7e44a31a2ecc5f6a857edc86b8142af6ce
+Author: Luisa Soriano <cdmx1995@amerike.edu.mx>
+Date:   Thu Sep 15 10:03:09 2022 -0500
+
+    Reparando errores
+
+commit 3bcab27f170f3d4c11742b6c4a39f3c28fe40e68
+Author: Luisa Soriano <cdmx1995@amerike.edu.mx>
+Date:   Thu Sep 15 09:59:58 2022 -0500
+
+    Agregando enlace de la práctica 1 del parcial 2
+
+commit c2194618d92e2b57a7337b20159a87619717c64a
+Merge: b73e43a 2033918
+Author: Luisa Soriano <cdmx1995@amerike.edu.mx>
+Date:   Tue Sep 13 10:12:24 2022 -0500
+
+    Agregando archivo .js
+
+commit b73e43aeb743c379323a476d474dfb3adf3a2a3d
+Author: Luisa Soriano <cdmx1995@amerike.edu.mx>
+Date:   Tue Sep 13 10:08:58 2022 -0500
+
+    Creando archivo script.jsde la rama
+
+commit 29121649dea275ca5ff1a0bf8d5897038b8066f3
+Author: Luisa Soriano <cdmx1995@amerike.edu.mx>
+Date:   Tue Sep 13 09:37:36 2022 -0500
+
+    Cambio
+
+commit 2033918831225dbd6ba003de3e5f54ebb1b38095
+Merge: fd1e126 186ff6d
+Author: Luisa <cdmx1995@amerike.edu.mx>
+Date:   Wed Sep 7 16:19:33 2022 -0600
+
+    Merge branch 'main' of https://github.com/Wichota/amerike-sistemasop
+
+commit fd1e1264e78da244aba235ee1c93dcfcc8fb03c6
+Author: Luisa <cdmx1995@amerike.edu.mx>
+Date:   Wed Sep 7 16:15:12 2022 -0600
+
+    Agregando enlance y práctica 8
+
+commit 87c118e983be2657c2db3c0ee15cdd2cdd02bff7
+Author: Luisa <cdmx1995@amerike.edu.mx>
+Date:   Wed Sep 7 16:09:52 2022 -0600
+
+    Agregando enlace y práctica 8
+
+commit c3bca7adb10b675a5376406be2ec9bc52e2d81fe
+Author: Luisa <cdmx1995@amerike.edu.mx>
+Date:   Wed Sep 7 16:09:06 2022 -0600
+
+    Agregando enlace y contenido práctica 8
+
+commit 186ff6d422481f79c10568c4264231fc5223768a
+Author: Wichota <100314787+Wichota@users.noreply.github.com>
+Date:   Wed Sep 7 14:55:40 2022 -0600
+
+    Agregando licencia
+
+commit f73c2bbd6bf31536b9ff4e15e60757494be6d136
+Author: Wichota <100314787+Wichota@users.noreply.github.com>
+Date:   Wed Sep 7 14:08:15 2022 -0600
+
+    Create license.txt
+
+commit 25a1352896daccf629006f0044ebe123d1c9e9e3
+Author: Luisa <cdmx1995@amerike.edu.mx>
+Date:   Wed Sep 7 13:50:07 2022 -0600
+
+    Agregando el archivo .gitignore
+
+commit 9f4de0e8d29ea77497ec0ef52865c109e41fb3c0
+Author: LuisaSoriano <cdmx1995@amerike.edu.mx>
+Date:   Tue Sep 6 10:03:46 2022 -0500
+
+    Agregando enlace a practica 4
+
+commit 8070263b1c15ed6633aaedeb2a31d02b1e3fe038
+Author: LuisaSoriano <cdmx1995@amerike.edu.mx>
+Date:   Thu Sep 1 11:00:00 2022 -0500
+
+    Tarea completa
+
+commit deb9df0db80194234d58e6853d14905c2e2f3f5b
+Author: LuisaSoriano <cdmx1995@amerike.edu.mx>
+Date:   Thu Sep 1 10:54:04 2022 -0500
+
+    Practica1y2 hasta ahora
